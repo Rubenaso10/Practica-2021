@@ -1,0 +1,7 @@
+    contenido_nombrepunteo.append(lista2)
+    contenido_nombrepunteo=[]
+    notas= []
+
+    for x in range(len(contenido_nombrepunteo)):
+        notas.append(x[1])
+    print(notas)
